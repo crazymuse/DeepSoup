@@ -1,3 +1,4 @@
+![DeepSoupTrelawney](images/DeepSoupTrelawney.png)
 # Deep Soup for Confused Chaps
 
 Post Explosion of Deep Learning, we have all felt traumatic experiences of going through a huge bunch of papers and missing the soup in it. This repo is to simplify the understanding of Deep Learning in layman terms/talking terms. We ain't gonna talk convoluted, we gonna go straight to the burning spot. The foundation of Deep Learning is in understanding the nitty gritty of concept and its implementation. Let me see if I can simplify Deep Learning for me and you.  
